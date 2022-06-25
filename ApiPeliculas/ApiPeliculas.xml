@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiPeliculas</name>
+    </assembly>
+    <members>
+        <member name="M:ApiPeliculas.Controllers.CategoriasController.GetCategoria">
+            <summary>
+            Obtener la lista de todad las categorias
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiPeliculas.Controllers.PeliculasController.GetPelicula">
+            <summary>
+            lista de peliculas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiPeliculas.Controllers.UsuariosController.GetUsuario(System.Int32)">
+            <summary>
+            listado de usuarios
+            </summary>
+            <param name="usuarioId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
